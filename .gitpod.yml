@@ -1,1 +1,15 @@
+
 image: public.ecr.aws/vlaaaaaaad/gitpod-terraform:latest
+
+vscode:
+  extensions:
+    - amazonwebservices.aws-toolkit-vscode
+    - streetsidesoftware.code-spell-checker
+    - ms-azuretools.vscode-docker
+    - donjayamanne.githistory
+    - eamodio.gitlens
+    - hashicorp.terraform
+    - ms-python.python
+    - ms-toolsai.jupyter
+    - yzhang.markdown-all-in-one
+    - gruntfuggly.todo-tree
